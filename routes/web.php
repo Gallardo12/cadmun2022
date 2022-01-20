@@ -23,4 +23,8 @@ Route::get('/schedule', function () {
     return view('schedule');
 });
 
+Route::get('/ga', function () {
+    return view('ga');
+});
+
 Route::post('/', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
