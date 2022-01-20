@@ -932,6 +932,7 @@
 
 
         <!-- ======= Contact Section ======= -->
+        @include('sweetalert::alert')
         <section id="contact" class="contact">
             <div class="container" data-aos="fade-up">
 
@@ -979,6 +980,11 @@
                         </div>
                     </div>
                     <div class="col-lg-8 mt-5 mt-lg-0">
+                        @if(session()->has('message'))
+                            <div class="alert alert-success">
+                                {{ session()->get('message') }}
+                            </div>
+                        @endif
                         <form action="" method="post" action="{{ route('contact.store') }}" id="contact-form"
                             role="form" class="php-email-form">
 
