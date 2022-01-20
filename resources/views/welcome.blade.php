@@ -149,7 +149,7 @@
                     <li><a class="nav-link scrollto" href="index.html#gallery">Gallery</a></li>
                     <li class="dropdown"><a href="#"><span>Committes</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="dropdown-menu scrollable-menu">
-                            <li><a href="ga.html">GA</a></li>
+                            <li><a href="/ga">GA</a></li>
                             <li><a href="#">Drop Down 2</a></li>
                             <li><a href="#">Drop Down 3</a></li>
                             <li><a href="#">Drop Down 4</a></li>
