@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Contact;
 use Mail;
+use Alert;
 
 class ContactUsFormController extends Controller {
 
@@ -36,6 +37,7 @@ class ContactUsFormController extends Controller {
             $message->from($request->email);
             $message->to('cadmun@cadurango.mx', 'Admin')->subject($request->get('subject'));
         });
+        Alert::success('Thanks', 'We have received your message and would like to thank you for writing to us.');
 
         return back()->with('success', 'We have received your message and would like to thank you for writing to us.');
     }
