@@ -19,4 +19,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/schedule', function () {
+    return view('schedule');
+});
+
 Route::post('/', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
