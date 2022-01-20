@@ -35,7 +35,7 @@ class ContactUsFormController extends Controller {
             'user_query' => $request->get('message'),
         ), function($message) use ($request){
             $message->from($request->email);
-            $message->to('cadmun@cadurango.mx', 'Admin')->subject($request->get('subject'));
+            $message->to('technology@cadmun.org', 'Admin')->subject($request->get('subject'));
         });
         Alert::success('Thanks', 'We have received your message and would like to thank you for writing to us.');
 
