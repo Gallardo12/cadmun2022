@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>CADMUN 2022 - Home</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+
+  <!-- Favicons -->
+  <link href="assets/img/CADMUN_transparent_logo.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Restaurantly - v3.7.0
+  * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+
+  <style>
+    .dropdown-menu {
+      width: 100%;
+    }
+
+    .scrollable-menu {
+      height: auto;
+      max-height: 350px;
+      overflow-x: hidden;
+    }
+  </style>
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+
+
+
+      <div class="languages d-none d-md-flex align-items-center">
+        <ul>
+          <li>En</li>
+          <li><a href="#">De</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-cente">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
+
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">CADMUN 2022</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="index.html">Home</a></li>
+          <li><a class="nav-link scrollto" href="registration.html">Registration</a></li>
+          <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
+          <li><a class="nav-link scrollto" href="index.html#menu">Secretariat</a></li>
+          <li><a class="nav-link scrollto" href="schedule.html">Schedule</a></li>
+          <li><a class="nav-link scrollto" href="faq.html">FAQ</a></li>
+          <li><a class="nav-link scrollto" href="index.html#gallery">Gallery</a></li>
+          <li class="dropdown"><a href="#"><span>Committes</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dropdown-menu scrollable-menu">
+              <li><a href="ga.html">GA</a></li>
+              <!--deep drop down-->
+
+              <!--deep drop down ends-->
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 14</a></li>
+            </ul>
+          </li>
+
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+      <a href="index.html#contact" class="book-a-table-btn scrollto d-none d-lg-flex">Contact Us</a>
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <div class="ga-overlay">
+      <div class="container text-center">
+        <h1>General Assembly</h1>
+        <br><br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis tempore quisquam fuga et at accusamus non
+          hic ad explicabo, aperiam ex temporibus? Ex expedita quas eos recusandae, non cum consectetur?</p>
+      </div>
+    </div>
+
+    <div class="container py-4">
+      <section id="des">
+
+        <div class="pb-3 mb-4 border-bottom">
+          <p style="font-size: 30px; text-align: center; background-color:#224ff2 "> BLUE DIVISION (9TH GRADE - 12TH
+            GRADE)</p>
+        </div>
+
+        <div class="p-5 mb-4 bg-dark rounded-3">
+          <div class="container-fluid py-5 bg-dark">
+            <h1 class="display-5 fw-bold">Description</h1>
+            <p style="text-align: justify;">Founded in 1945, the United Nations General Assembly is the main organ of
+              the UN. It is
+              considered the democratic heart of the United Nations, it serves as the main deliberative, policymaking,
+              and representative body. The General Assembly has debates of peace, security, development, human rights,
+              among others. This committee has huge relevance and influence, since key decisions that affect all 193
+              Member States are made. The General Assembly has the authority to approve or not a resolution made by
+              another committee. It requires the best and most prepared delegates that will be able to analyze
+              solutions, in order to choose the best one.</p>
+          </div>
+        </div>
+
+        <div class="row align-items-md-stretch">
+          <div class="col-md-6">
+            <div class="h-100 p-5 text-white bg-dark rounded-3">
+              <h2>Background paper</h2>
+              <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then,
+                mix and match with additional component themes and more.</p>
+              <button class="btn btn-outline-light" type="button">View PDF</button>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="h-100 p-5 bg-dark border rounded-3">
+              <h2>Contact committee</h2>
+              <p>general.assembly@cadmun.org</p>
+              <button class="btn btn-outline-light" type="button">Send E-mail</button>
+            </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row mb-2">
+          <div class="col-md-6">
+            <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+              <div class="col p-4 d-flex flex-column position-static">
+                <strong class="d-inline-block mb-2 text-primary">World</strong>
+                <h3 class="mb-0">Featured post</h3>
+                <div class="mb-1 text-muted">Nov 12</div>
+                <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to
+                  additional content.</p>
+              </div>
+              <div class="col p-6 d-none d-lg-block">
+                <img
+                  src="https://st4.depositphotos.com/1049680/31414/i/450/depositphotos_314144912-stock-photo-vertical-angle-picture-young-handsome.jpg"
+                  alt="" class="img-fluid">
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+              <div class="col p-4 d-flex flex-column position-static">
+                <strong class="d-inline-block mb-2 text-primary">World</strong>
+                <h3 class="mb-0">Featured post</h3>
+                <div class="mb-1 text-muted">Nov 12</div>
+                <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to
+                  additional content.</p>
+              </div>
+              <div class="col p-6 d-none d-lg-block">
+                <img
+                  src="https://st4.depositphotos.com/1049680/31414/i/450/depositphotos_314144912-stock-photo-vertical-angle-picture-young-handsome.jpg"
+                  alt="" class="img-fluid">
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info">
+              <h3>About Us</h3>
+              <p>
+                Colegio Americano de Durango
+                <br> Model United Nations
+              </p>
+              <div class="social-links mt-3">
+                <a href="https://www.facebook.com/cadmun.asd/" target="_blank" class="facebook"><i
+                    class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/cadmun/" target="_blank" class="instagram"><i
+                    class="bx bxl-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h3>Contact Us</h3>
+            <p>
+              Address: <br>
+              Av. Tec Milenio #201, El Nayar, 34194, Victoria de Durango, Durango, Mexico
+            </p>
+            <p>
+              Telephpne: <br>
+              +52 618 000 0000 <br>
+              +52 618 000 0000
+            </p>
+            <p>
+              email: <br>
+              secretariat@cadmun.org <br>
+              advisor@cadmun.org <br>
+              secretary.general@cadmun.org <br>
+              vice.secretary.general@cadmun.org
+            </p>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h3>Quick Links</h3>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="registration.html">Registration</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="schedule.html">Schedule</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">FAQ</a></li>
+            </ul>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Restaurantly</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
