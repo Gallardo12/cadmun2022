@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CADMUN 2022 - Home</title>
+  <title>CADMUN 2022 - GA</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -73,66 +73,55 @@
 <body>
 
   <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-flex align-items-center fixed-top">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-
-
-
-      <div class="languages d-none d-md-flex align-items-center">
-        <ul>
-          <li>En</li>
-          <li><a href="#">De</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
+  
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-cente">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
+        <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">CADMUN 2022</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <h1 class="logo me-auto me-lg-0"><a href="/">CADMUN 2022</a></h1>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="nav-link scrollto active" href="index.html">Home</a></li>
-          <li><a class="nav-link scrollto" href="registration.html">Registration</a></li>
-          <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
-          <li><a class="nav-link scrollto" href="index.html#menu">Secretariat</a></li>
-          <li><a class="nav-link scrollto" href="schedule.html">Schedule</a></li>
-          <li><a class="nav-link scrollto" href="faq.html">FAQ</a></li>
-          <li><a class="nav-link scrollto" href="index.html#gallery">Gallery</a></li>
-          <li class="dropdown"><a href="#"><span>Committes</span> <i class="bi bi-chevron-down"></i></a>
-            <ul class="dropdown-menu scrollable-menu">
-              <li><a href="ga.html">GA</a></li>
-              <!--deep drop down-->
+            <nav id="navbar" class="navbar order-last order-lg-0">
+                <ul>
+                    <li><a class="nav-link scrollto" href="/">Home</a></li>
+                    <li><a class="nav-link scrollto" href="/registration">Registration</a></li>
+                    <li><a class="nav-link scrollto" href="/#about">About</a></li>
+                    <li><a class="nav-link scrollto" href="/#menu">Secretariat</a></li>
+                    <li><a class="nav-link scrollto" href="/schedule">Schedule</a></li>
+                    <li><a class="nav-link scrollto" href="/faq">FAQ</a></li>
+                    <li><a class="nav-link scrollto" href="/#gallery">Gallery</a></li>
+                    <li class="dropdown"><a href="/#specials" class = "active"><span>Committees</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul class="dropdown-menu scrollable-menu">
+                            <li><a href="/ga">GA</a></li>
+                            <!--deep drop down-->
 
-              <!--deep drop down ends-->
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 14</a></li>
-            </ul>
-          </li>
+                            <!--deep drop down ends-->
+                            <li><a href="/sc">SC</a></li>
+                            <li><a href="/who">WHO</a></li>
+                            <li><a href="/cmd">CND</a></li>
+                            <li><a href="/ccpcj">CCPCJ</a></li>
+                            <li><a href="/hr">HR</a></li>
+                            <li><a href="/au">AU</a></li>
+                            <li><a href="/specpol">SPECPOL</a></li>
+                            <li><a href="/csw">CSW</a></li>
+                            <li><a href="/sochum">SOCHUM</a></li>
+                            <li><a href="/ad">AD - HOC</a></li>
+                            <li><a href="/psd">PSD</a></li>
+                            <li><a href="/iom">IOM</a></li>
+                            <li><a href="/habitat">Habitat</a></li>
+                        </ul>
+                    </li>
 
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-      <a href="index.html#contact" class="book-a-table-btn scrollto d-none d-lg-flex">Contact Us</a>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+            <a href="/#contact" class="book-a-table-btn scrollto d-none d-lg-flex">Contact Us</a>
 
-    </div>
-  </header><!-- End Header -->
+        </div>
+    </header>
+    <!-- End Header -->
 
   <main id="main">
     <br>
@@ -146,8 +135,8 @@
       <div class="container text-center">
         <h1>General Assembly</h1>
         <br><br>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis tempore quisquam fuga et at accusamus non
-          hic ad explicabo, aperiam ex temporibus? Ex expedita quas eos recusandae, non cum consectetur?</p>
+        <p style = "color:red; font-size: 25px" >TOPIC A:</p> <p style = "font-size: 20px">Countering the Threat Posed by Improvised Explosive Devices</p>
+        <p style = "color:red; font-size: 25px" >TOPIC B:</p> <p style = "font-size: 20px">Implementing the Paris Declaration on Aid effectiveness and the Accra Agenda for Action</p>
       </div>
     </div>
 
@@ -177,8 +166,7 @@
           <div class="col-md-6">
             <div class="h-100 p-5 text-white bg-dark rounded-3">
               <h2>Background paper</h2>
-              <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then,
-                mix and match with additional component themes and more.</p>
+              <br>
               <button class="btn btn-outline-light" type="button">View PDF</button>
             </div>
           </div>
@@ -186,7 +174,7 @@
             <div class="h-100 p-5 bg-dark border rounded-3">
               <h2>Contact committee</h2>
               <p>general.assembly@cadmun.org</p>
-              <button class="btn btn-outline-light" type="button">Send E-mail</button>
+              <a href="mail.google.com" target = "_blank"><button class="btn btn-outline-light" type="button">Send E-mail</button></a>
             </div>
           </div>
         </div>
@@ -196,12 +184,13 @@
         <div class="row mb-2">
           <div class="col-md-6">
             <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-              <div class="col p-4 d-flex flex-column position-static">
-                <strong class="d-inline-block mb-2 text-primary">World</strong>
-                <h3 class="mb-0">Featured post</h3>
-                <div class="mb-1 text-muted">Nov 12</div>
-                <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to
-                  additional content.</p>
+            <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
+                <br>
+                <br>
+                <br>
+                <br>
+                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 40px">Director</strong>
+                <h3 class="mb-0">name</h3>
               </div>
               <div class="col p-6 d-none d-lg-block">
                 <img
@@ -212,12 +201,13 @@
           </div>
           <div class="col-md-6">
             <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-              <div class="col p-4 d-flex flex-column position-static">
-                <strong class="d-inline-block mb-2 text-primary">World</strong>
-                <h3 class="mb-0">Featured post</h3>
-                <div class="mb-1 text-muted">Nov 12</div>
-                <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to
-                  additional content.</p>
+              <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
+                <br>
+                <br>
+                <br>
+                <br>
+                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 40px">Moderator</strong>
+                <h3 class="mb-0">name</h3>
               </div>
               <div class="col p-6 d-none d-lg-block">
                 <img
@@ -234,76 +224,76 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
 
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              <h3>About Us</h3>
-              <p>
-                Colegio Americano de Durango
-                <br> Model United Nations
-              </p>
-              <div class="social-links mt-3">
-                <a href="https://www.facebook.com/cadmun.asd/" target="_blank" class="facebook"><i
-                    class="bx bxl-facebook"></i></a>
-                <a href="https://www.instagram.com/cadmun/" target="_blank" class="instagram"><i
-                    class="bx bxl-instagram"></i></a>
-              </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="footer-info">
+                            <h3>About Us</h3>
+                            <p>
+                                Colegio Americano de Durango
+                                <br> Model United Nations
+                            </p>
+                            <div class="social-links mt-3">
+                                <a href="https://www.facebook.com/cadmun.asd/" target="_blank" class="facebook"><i
+                                        class="bx bxl-facebook"></i></a>
+                                <a href="https://www.instagram.com/cadmun/" target="_blank" class="instagram"><i
+                                        class="bx bxl-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-links">
+                        <h3>Contact Us</h3>
+                        <p>
+                            Address: <br>
+                            Av. Tec Milenio #201, El Nayar, 34194, Victoria de Durango, Durango, Mexico
+                        </p>
+                        <p>
+                            Telephpne: <br>
+                            +52 618 145 3398 <br>
+                            +52 618 166 1245
+                        </p>
+                        <p>
+                            email: <br>
+                            secretariat@cadmun.org <br>
+                            advisor@cadmun.org <br>
+                            secretary.general@cadmun.org <br>
+                            vice.secretary.general@cadmun.org
+                        </p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-links">
+                        <h3>Quick Links</h3>
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/registration">Registration</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/schedule">Schedule</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/faq">FAQ</a></li>
+                        </ul>
+                    </div>
+
+
+
+                </div>
             </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-links">
-            <h3>Contact Us</h3>
-            <p>
-              Address: <br>
-              Av. Tec Milenio #201, El Nayar, 34194, Victoria de Durango, Durango, Mexico
-            </p>
-            <p>
-              Telephpne: <br>
-              +52 618 000 0000 <br>
-              +52 618 000 0000
-            </p>
-            <p>
-              email: <br>
-              secretariat@cadmun.org <br>
-              advisor@cadmun.org <br>
-              secretary.general@cadmun.org <br>
-              vice.secretary.general@cadmun.org
-            </p>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-links">
-            <h3>Quick Links</h3>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="registration.html">Registration</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="schedule.html">Schedule</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">FAQ</a></li>
-            </ul>
-          </div>
-
-
-
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Restaurantly</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>Restaurantly</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End Footer -->
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i

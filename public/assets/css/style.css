@@ -1815,8 +1815,8 @@ section {
     padding-top: 50px;
 }
 
-.sec-overlay {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/registration-cover.jpg);
+.faq-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/faq-cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1824,3 +1824,261 @@ section {
     height: 450px;
     padding-top: 50px;
 }
+
+.sc-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/sc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.who-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/who.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.cnd-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/cnd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.ccpcj-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/ccpcj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.hr-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/hr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+
+.au-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/au.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.specpol-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/specpol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.csw-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/csw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.sochum-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/sochum.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.ad-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/ad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.iom-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/iom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.habitat-overlay {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/commi_overlay/habitat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#faq {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 15px;
+    text-align: center;
+  }
+  #faq ul {
+    text-align: left;
+  }
+  #faq h1 {
+    color: #42cbf5;
+    margin-bottom: 30px;
+  }
+  #faq h2 {
+    color: #42cbf5;
+    font-family: 'hm_light', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 34px;
+    padding: 15px 15px 0;
+    text-transform: none;
+    letter-spacing: 1px;
+    font-weight: 600;
+    display: block;
+    margin:0;
+    cursor: pointer;
+    transition: .2s;
+  }
+  #faq p {
+    color: #fff;
+    text-align: left;
+    font-family: 'hm_light', sans-serif;
+    font-size: 14px;
+    line-height: 1.45;
+    position: relative;
+    overflow: hidden;
+    max-height: 250px;
+    will-change: max-height;
+    contain:layout;
+    display: inline-block;
+    opacity: 1;
+    transform: translate(0,0);
+    margin: 5px 50px 0 15px;
+    transition: .3s opacity, .6s max-height;
+    hyphens: auto;
+    -webkit-hyphens:auto;
+    -ms-hyphens:auto;
+    z-index: 2;
+  }
+  #faq ul {
+    list-style: none;
+    perspective: 900;
+    padding: 0;
+    margin:0;
+  }
+  #faq ul li {
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    background: #383838;
+    box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
+    -webkit-tap-highlight-color: transparent;
+    border-radius: 4px;
+  }
+  #faq ul li + li {
+    margin-top: 15px;
+  }
+  #faq ul li:last-of-type {
+    padding-bottom: 0;
+  }
+  #faq ul li i {
+    position: absolute;
+    transform: translate(-6px, 0);
+    margin-top: 28px;
+    right: 15px;
+  }
+  #faq ul li i:before,
+  #faq ul li i:after {
+    content: "";
+    position: absolute;
+    background-color: #42cbf5;
+    width: 3px;
+    height: 9px;
+  }
+  #faq ul li i:before {
+    transform: translate(2px, 0) rotate(45deg);
+  }
+  #faq ul li i:after {
+    transform: translate(-2px, 0) rotate(-45deg);
+  }
+  #faq ul li input[type=checkbox] {
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    touch-action: manipulation;
+  }
+  #faq ul li input[type=checkbox]:checked ~ h2 {
+    color: #fff;
+  }
+  #faq ul li input[type=checkbox]:checked ~ p {
+    margin: 0;
+    max-height: 0;
+    transition: .3s;
+    opacity: 0;
+  }
+  #faq ul li input[type=checkbox]:checked ~ i:before {
+    transform: translate(2px, 0) rotate(45deg);
+    background: #fff;
+  }
+  #faq ul li input[type=checkbox]:checked ~ i:after {
+    transform: translate(-2px, 0) rotate(-45deg);
+    background: #fff;
+  }
+  .transition, p, ul li i:before, ul li i:after {
+    transition: all 0.3s;
+  } 

@@ -136,43 +136,47 @@
 
             <h1 class="logo me-auto me-lg-0"><a href="/">CADMUN 2022</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="/" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
                     <li><a class="nav-link scrollto active" href="/">Home</a></li>
-                    <li><a class="nav-link scrollto" href="registration.html">Registration</a></li>
-                    <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="index.html#menu">Secretariat</a></li>
+                    <li><a class="nav-link scrollto" href="/registration">Registration</a></li>
+                    <li><a class="nav-link scrollto" href="/#about">About</a></li>
+                    <li><a class="nav-link scrollto" href="/#menu">Secretariat</a></li>
                     <li><a class="nav-link scrollto" href="/schedule">Schedule</a></li>
-                    <li><a class="nav-link scrollto" href="faq.html">FAQ</a></li>
-                    <li><a class="nav-link scrollto" href="index.html#gallery">Gallery</a></li>
-                    <li class="dropdown"><a href="#"><span>Committes</span> <i class="bi bi-chevron-down"></i></a>
+                    <li><a class="nav-link scrollto" href="/faq">FAQ</a></li>
+                    <li><a class="nav-link scrollto" href="/#gallery">Gallery</a></li>
+                    <li class="dropdown"><a href="/#specials"><span>Committees</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="dropdown-menu scrollable-menu">
                             <li><a href="/ga">GA</a></li>
-                            <li><a href="#">Drop Down 2</a></li>
-                            <li><a href="#">Drop Down 3</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                            <li><a href="#">Drop Down 14</a></li>
+                            <!--deep drop down-->
+
+                            <!--deep drop down ends-->
+                            <li><a href="/sc">SC</a></li>
+                            <li><a href="/who">WHO</a></li>
+                            <li><a href="/cmd">CND</a></li>
+                            <li><a href="/ccpcj">CCPCJ</a></li>
+                            <li><a href="/hr">HR</a></li>
+                            <li><a href="/au">AU</a></li>
+                            <li><a href="/specpol">SPECPOL</a></li>
+                            <li><a href="/csw">CSW</a></li>
+                            <li><a href="/sochum">SOCHUM</a></li>
+                            <li><a href="/ad">AD - HOC</a></li>
+                            <li><a href="/psd">PSD</a></li>
+                            <li><a href="/iom">IOM</a></li>
+                            <li><a href="/habitat">Habitat</a></li>
                         </ul>
                     </li>
 
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
-            <a href="#contact" class="book-a-table-btn scrollto d-none d-lg-flex">Contact Us</a>
+            <a href="/#contact" class="book-a-table-btn scrollto d-none d-lg-flex">Contact Us</a>
 
         </div>
-    </header><!-- End Header -->
+    </header>
+    <!-- End Header -->
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
@@ -431,12 +435,12 @@
                         peaceful
                         and collective way. CADMUN as well as other Models of United Nations is divided into committees
                         to aboard
-                        a range of different issues on a global level. This year we have included 3 fantasy committees!
+                        a range of different issues on a global level.
                         <br> <br>
 
-                        This year we have 5 color divisions for the committees, each color division has a grade range
+                        This year we have 4 color divisions for the committees, each color division has a grade range
                         from 6th
-                        grade of elementary to college years:</p>
+                        grade of elementary to 12th grade of high school:</p>
                 </div>
 
 
@@ -444,14 +448,13 @@
                 <p style="font-size: 30px; text-align: center; background-color:#eff542; color: black; ">YELLOW DIVISION
                     (7TH
                     GRADE - 9TH GRADE)</p>
-                <p style="font-size: 30px; text-align: center; background-color:#f02b2b; "> RED DIVISION (7TH GRADE -
-                    10TH
-                    GRADE)</p>
                 <p style="font-size: 30px; text-align: center; background-color:#224ff2 "> BLUE DIVISION (9TH GRADE -
                     12TH
                     GRADE)</p>
-                <p style="font-size: 30px; text-align: center; background-color:#9c05ed"> PURPLE DIVISION (10TH GRADE -
-                    COLLEGE)</p>
+                <p style="font-size: 30px; text-align: center; background-color:#f02b2b; "> RED DIVISION (10TH GRADE -
+                    12TH
+                    GRADE)</p>
+                
 
                 <br><br>
 
@@ -463,6 +466,206 @@
                                     <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
                                     <br>
                                     <h4 class="card-title" style="color: black;">General Assembly</h4>
+                                    <img src="assets/img/GA-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                        The General Assembly is the main deliberative, policymaking and representative
+                                        organ of the United
+                                        Nations
+                                    </p>
+                                    <a href="/ga" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">Security Council</h4>
+                                    <img src="assets/img/security_council-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The United Nations Security Council (UNSC) is one of the six principal organs of the United Nations (UN), charged with ensuring international peace and security
+                                    </p>
+                                    <a href="/sc" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">World Health Organization</h4>
+                                    <img src="assets/img/who-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    WHO is the United Nations agency that connects nations, partners and people to promote health, keep the world safe and serve the vulnerable.
+                                    </p>
+                                    <a href="/who" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">The Commission on Narcotic drugs</h4>
+                                    <img src="assets/img/cnd-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The Commission on Narcotic Drugs is the principal policy-making body of the United Nations in drug-related matters. 
+                                    </p>
+                                    <a href="/cmd" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">CCPCJ</h4>
+                                    <img src="assets/img/ccpcj-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The Commission on Crime Prevention and Criminal Justice is the principal policy-making body of the United Nations in these areas
+                                    </p>
+                                    <a href="/ccpcj" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">Human Rights</h4>
+                                    <img src="assets/img/hr-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The Human Rights Council is an inter-governmental body within the United Nations system responsible for strengthening the promotion and protection of human rights around the globe.
+                                    </p>
+                                    <a href="/hr" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">African Union</h4>
+                                    <img src="assets/img/african_union-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The African Union (AU) is a continental body consisting of the 55 member states that make up the countries of the African Continent.
+                                    </p>
+                                    <a href="/au" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">SPECPOL</h4>
+                                    <img src="assets/img/specpol-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    This committee considers a broad range of issues covering a cluster of five decolonization-related agenda items, the effects of atomic radiation, etc.
+                                    </p>
+                                    <a href="/specpol" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">Commission on the Status of Women</h4>
+                                    <img src="assets/img/women-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The Commission on the Status of Women is the principal global intergovernmental body exclusively dedicated to the promotion of gender equality and the empowerment of women
+                                    </p>
+                                    <a href="/csw" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">SOCHUM</h4>
+                                    <img src="assets/img/sochum-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    The Social, Humanitarian, and Cultural Committee (SOCHUM) is the Third Committee of the General Assembly that is specially tasked with addressing a wide range of social and humanitarian affairs as well as human rights issues.
+                                    </p>
+                                    <a href="/sochum" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">AD - HOC Committee</h4>
+                                    <img src="assets/img/ad_hoc-card.jpg" alt="" class="img-fluid">
+                                </div>
+                                <div class="back card-block">
+                                    <p style="position: absolute; top: 100px;">
+                                    An ad hoc committee is a committee that is formed for a specific purpose or to help the board with a particular project.
+                                    </p>
+                                    <a href="/ad" class="btn btn-outline-primary"
+                                        style="background-color: dodgerblue; color: white;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 card-container">
+                            <div class="card card-flip">
+                                <div class="front card-block">
+                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+                                    <br>
+                                    <h4 class="card-title" style="color: black;">Peace and Security Department</h4>
                                     <img src="assets/img/GA.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="back card-block">
@@ -482,16 +685,14 @@
                                 <div class="front card-block">
                                     <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
                                     <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
+                                    <h4 class="card-title" style="color: black;">IOM</h4>
+                                    <img src="assets/img/iom-card.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="back card-block">
                                     <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
+                                    IOM is the leading intergovernmental organization in the field of migration and works closely with governmental, intergovernmental and non-governmental partners.
                                     </p>
-                                    <a href="#" class="btn btn-outline-primary"
+                                    <a href="/iom" class="btn btn-outline-primary"
                                         style="background-color: dodgerblue; color: white;">Read
                                         More</a>
                                 </div>
@@ -502,236 +703,14 @@
                                 <div class="front card-block">
                                     <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
                                     <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
+                                    <h4 class="card-title" style="color: black;">UN-Habitat</h4>
+                                    <img src="assets/img/habitat-card.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="back card-block">
                                     <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
+                                    UN-Habitat promotes urbanization as a positive transformative force for people and communities, reducing inequality, discrimination and poverty.
                                     </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
-                                        style="background-color: dodgerblue; color: white;">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 card-container">
-                            <div class="card card-flip">
-                                <div class="front card-block">
-                                    <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-                                    <br>
-                                    <h4 class="card-title" style="color: black;">General Assembly</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="back card-block">
-                                    <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
-                                    </p>
-                                    <a href="#" class="btn btn-outline-primary"
+                                    <a href="/habitat" class="btn btn-outline-primary"
                                         style="background-color: dodgerblue; color: white;">Read
                                         More</a>
                                 </div>
@@ -981,9 +960,9 @@
                     </div>
                     <div class="col-lg-8 mt-5 mt-lg-0">
                         @if(session()->has('message'))
-                            <div class="alert alert-success">
-                                {{ session()->get('message') }}
-                            </div>
+                        <div class="alert alert-success">
+                            {{ session()->get('message') }}
+                        </div>
                         @endif
                         <form action="" method="post" action="{{ route('contact.store') }}" id="contact-form"
                             role="form" class="php-email-form">
@@ -1090,8 +1069,8 @@
                         </p>
                         <p>
                             Telephpne: <br>
-                            +52 618 000 0000 <br>
-                            +52 618 000 0000
+                            +52 618 145 3398 <br>
+                            +52 618 166 1245
                         </p>
                         <p>
                             email: <br>
@@ -1105,11 +1084,11 @@
                     <div class="col-lg-4 col-md-6 footer-links">
                         <h3>Quick Links</h3>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="registration.html">Registration</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/registration">Registration</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="schedule.html">Schedule</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/schedule">Schedule</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">FAQ</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/faq">FAQ</a></li>
                         </ul>
                     </div>
 
