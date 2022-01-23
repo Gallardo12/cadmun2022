@@ -141,7 +141,7 @@
         </div>
 
         <br><br><br>
-
+        <!--
         <div class="container-sm">
             <h1 style="text-align: center;">Registration Process to CADMUN 2022</h1>
             <br>
@@ -201,8 +201,11 @@
                 4) CADMUN 2021 will confirm your selection.
             </p>
         </div>
-
+-->
     </main><!-- End #main -->
+
+    <h1>Coming soon</h1>
+    
 
     <br><br><br>
 
