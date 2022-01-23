@@ -131,7 +131,7 @@
                     <p>A position paper is an essay detailing the country's policies on the topic being discussed at the
                         conference. If you have a question about how to start your position paper, the CADMUN
                         secretariat has a
-                        guide for you! Click <a style="color: yellow;" href="/schedule" target="_blank"><u>here</u></a>.
+                        guide for you! Click <a style="color: yellow;" href="https://www.thoughtco.com/how-to-write-a-position-paper-1857251" target="_blank"><u>here</u></a>.
                         to read it!
                         Feel free to take a look and we hope it turns out excellent.</p>
                 </li>
@@ -139,18 +139,14 @@
                     <input type="checkbox" checked>
                     <i></i>
                     <h2>What is the parliamentary procedure used in CADMUN?</h2>
-                    <p>Different MUNs may have minimal variations in the parliamentary procedure, this year CADMUN has
-                        also
-                        changed a couple of things. <a style="color: yellow;" href="/schedule"
-                            target="_blank"><u>Here</u></a> is a
-                        document in which you can review the parliamentary procedure.
+                    <p>Coming soon
                     </p>
                 </li>
                 <li>
                     <input type="checkbox" checked>
                     <i></i>
                     <h2>When and at what time is the event?</h2>
-                    <p>CADMUN 2021 already has dates set! The event will take place on March 18, 19, and 20 of this
+                    <p>CADMUN 2022 already has dates set! The event will take place on March 31, April 1, and 2 of this
                         year. If you
                         want to check the schedule, click <a style="color: yellow;" href="/schedule"
                             target="_blank"><u>here</u></a>. </p>
@@ -159,7 +155,7 @@
                     <input type="checkbox" checked>
                     <i></i>
                     <h2>Will there be a guest speaker and will I be able to ask questions to that person?</h2>
-                    <p>We are proud to announce our honored guest this year, Goku and Vegeta. You will have an
+                    <p> You will have an
                         opportunity to
                         participate in a Question & Answer period after their speech.
                     </p>
@@ -168,10 +164,7 @@
                     <input type="checkbox" checked>
                     <i></i>
                     <h2>How do I register to CADMUN and when is the deadline?</h2>
-                    <p>The deadline to register is March 8! Detailed instructions to enroll in CADMUN are <a
-                            style="color: yellow;" href="/registration" target="_blank"><u>here</u></a>. Do not hesitate
-                        to send us an
-                        email if you have any questions. You can send it to cadmun@cadurango.mx</p>
+                    <p>Coming soon
                     </p>
             </ul>
         </div>
