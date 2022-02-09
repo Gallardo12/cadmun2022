@@ -169,7 +169,7 @@
             <div class="h-100 p-5 bg-dark border rounded-3">
               <h2>Contact committee</h2>
               <p>specpol@cadmun.org</p>
-              <a href="mail.google.com" target = "_blank"><button class="btn btn-outline-light" type="button">Send E-mail</button></a>
+              <a href="	https://mail.google.com" target = "_blank"><button class="btn btn-outline-light" type="button">Send E-mail</button></a>
             </div>
           </div>
         </div>
