@@ -204,7 +204,7 @@
 -->
     </main><!-- End #main -->
 
-    <h1>Coming soon</h1>
+    <h1 style="text-align: center">Coming soon</h1>
     
 
     <br><br><br>

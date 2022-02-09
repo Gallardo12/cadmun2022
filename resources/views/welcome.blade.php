@@ -258,6 +258,15 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
+                                <img src="assets/img/testimonials/testimonials-0.jpg" class="testimonial-img img-fluid"
+                                    alt="">
+                                <h3>Daniela Rivas</h3>
+                                <h4>Advisor</h4>
+                            </div>
+                        </div><!-- End testimonial item for 0 -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item">
                                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img img-fluid"
                                     alt="">
                                 <h3>Aldo Peña</h3>
@@ -620,13 +629,11 @@
                                     <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
                                     <br>
                                     <h4 class="card-title" style="color: black;">Peace and Security Department</h4>
-                                    <img src="assets/img/GA.jpg" alt="" class="img-fluid">
+                                    <img src="assets/img/psd-card.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="back card-block">
                                     <p style="position: absolute; top: 100px;">
-                                        The General Assembly is the main deliberative, policymaking and representative
-                                        organ of the United
-                                        Nations
+                                    PSD is an intergovernmental advisory body that supports peace efforts in conflict-affected countries.
                                     </p>
                                     <a href="#" class="btn btn-outline-primary"
                                         style="background-color: dodgerblue; color: white;">Read

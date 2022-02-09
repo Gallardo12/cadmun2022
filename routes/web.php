@@ -83,5 +83,9 @@ Route::get('/habitat', function () {
     return view('habitat');
 });
 
+Route::get('/psd', function () {
+    return view('psd');
+});
+
 
 Route::post('/', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');

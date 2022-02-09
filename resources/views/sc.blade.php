@@ -160,7 +160,8 @@
             <div class="h-100 p-5 text-white bg-dark rounded-3">
               <h2>Background paper</h2>
               <br>
-              <button class="btn btn-outline-light" type="button">View PDF</button>
+              <a href="/assets/background_papers/sc/a.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
+              <a href="/assets/background_papers/sc/b.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
             </div>
           </div>
           <div class="col-md-6">
@@ -177,19 +178,8 @@
         <div class="row mb-2">
           <div class="col-md-6">
             <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-            <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
-                <br>
-                <br>
-                <br>
-                <br>
-                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 40px">Director</strong>
-                <h3 class="mb-0">name</h3>
-              </div>
-              <div class="col p-6 d-none d-lg-block">
-                <img
-                  src="https://st4.depositphotos.com/1049680/31414/i/450/depositphotos_314144912-stock-photo-vertical-angle-picture-young-handsome.jpg"
-                  alt="" class="img-fluid">
-              </div>
+            <img src="/assets/img/chairs/sc.jpg" alt="" class="img-fluid rounded mx-auto d-block img-thumbnail">
+              
             </div>
           </div>
           <div class="col-md-6">
@@ -197,18 +187,21 @@
               <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
                 <br>
                 <br>
+                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 30px">Director</strong>
+                <h3 class="mb-0">Fernanda Garza</h3>
+              </div>
+              <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
                 <br>
                 <br>
-                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 40px">Moderator</strong>
-                <h3 class="mb-0">name</h3>
+                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 30px">Moderator</strong>
+                <h3 class="mb-0">Ernesto Campos</h3>
               </div>
-              <div class="col p-6 d-none d-lg-block">
-                <img
-                  src="https://st4.depositphotos.com/1049680/31414/i/450/depositphotos_314144912-stock-photo-vertical-angle-picture-young-handsome.jpg"
-                  alt="" class="img-fluid">
-              </div>
+              
             </div>
           </div>
+          
+            
+          
         </div>
       </section>
     </div>
