@@ -167,8 +167,8 @@
             <div class="h-100 p-5 text-white bg-dark rounded-3">
               <h2>Background paper</h2>
               <br>
-              <a href="/assets/background_papers/test.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
-              <a href="/assets/background_papers/test.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
+              <a href="/assets/background_papers/ga/a.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
+              <a href="/assets/background_papers/ga/b.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
             </div>
             
           </div>
