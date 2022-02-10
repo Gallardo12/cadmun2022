@@ -4,79 +4,81 @@
 <head>
 
 
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CADMUN 2022 - CSW</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+    <title>CADMUN 2022 - CSW</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
 
 
-  <!-- Favicons -->
-  <link href="assets/img/CADMUN_transparent_logo.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Favicons -->
+    <link href="assets/img/CADMUN_transparent_logo.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-    rel="stylesheet">
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
+    <!-- =======================================================
   * Template Name: Restaurantly - v3.7.0
   * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 
-  <style>
-    .dropdown-menu {
-      width: 100%;
-    }
+    <style>
+        .dropdown-menu {
+            width: 100%;
+        }
 
-    .scrollable-menu {
-      height: auto;
-      max-height: 350px;
-      overflow-x: hidden;
-    }
-  </style>
+        .scrollable-menu {
+            height: auto;
+            max-height: 350px;
+            overflow-x: hidden;
+        }
 
-  <style>
-    .bd-placeholder-img {
-      font-size: 1.125rem;
-      text-anchor: middle;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      user-select: none;
-    }
+    </style>
 
-    @media (min-width: 768px) {
-      .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-      }
-    }
-  </style>
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+    </style>
 
 </head>
 
 <body>
 
-  <!-- ======= Top Bar ======= -->
-  
+    <!-- ======= Top Bar ======= -->
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-cente">
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top d-flex align-items-cente">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
 
             <h1 class="logo me-auto me-lg-0"><a href="/">CADMUN 2022</a></h1>
@@ -92,7 +94,8 @@
                     <li><a class="nav-link scrollto" href="/schedule">Schedule</a></li>
                     <li><a class="nav-link scrollto" href="/faq">FAQ</a></li>
                     <li><a class="nav-link scrollto" href="/#gallery">Gallery</a></li>
-                    <li class="dropdown"><a href="/#specials" class = "active"><span>Committees</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="/#specials" class="active"><span>Committees</span> <i
+                                class="bi bi-chevron-down"></i></a>
                         <ul class="dropdown-menu scrollable-menu">
                             <li><a href="/ga">GA</a></li>
                             <!--deep drop down-->
@@ -123,94 +126,111 @@
     </header>
     <!-- End Header -->
 
-  <main id="main">
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-
-    <div class="csw-overlay">
-      <div class="container text-center">
-        <h1>Commission on the Status of Women</h1>
-        <br><br>
-        <p style = "color:red; font-size: 25px" >TOPIC A:</p> <p style = "font-size: 20px">Gender equality for women in STEM</p>
-        <p style = "color:red; font-size: 25px" >TOPIC B:</p> <p style = "font-size: 20px">Gender equality in caregiving and childcare</p>
-      </div>
-    </div>
-
-    <div class="container py-4">
-      <section id="des">
-
-        <div class="pb-3 mb-4 border-bottom">
-        <p style="font-size: 30px; text-align: center; background-color:#eff542; color: black; ">YELLOW DIVISION
-                    (7TH
-                    GRADE - 9TH GRADE)</p>
-        </div>
-
-        <div class="p-5 mb-4 bg-dark rounded-3">
-          <div class="container-fluid py-5 bg-dark">
-            <h1 class="display-5 fw-bold">Description</h1>
-            <p style="text-align: justify;">The Commission on the Status of Women (CSW) is the principal global intergovernmental body exclusively dedicated to the promotion of gender equality and the empowerment of women. A functional commission of the Economic and Social Council (ECOSOC), it was established by ECOSOC resolution 11(II) of 21 June 1946.The CSW is instrumental in promoting women’s rights, documenting the reality of women’s lives throughout the world, and shaping global standards on gender equality and the empowerment of women.</p>
-          </div>
-        </div>
-
-        <div class="row align-items-md-stretch">
-          <div class="col-md-6">
-            <div class="h-100 p-5 text-white bg-dark rounded-3">
-              <h2>Background paper</h2>
-              <br>
-              <a href="/assets/background_papers/csw/a.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
-              <a href="/assets/background_papers/csw/b.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="h-100 p-5 bg-dark border rounded-3">
-              <h2>Contact committee</h2>
-              <p>csw@cadmun.org</p>
-              <a href="https://mail.google.com" target = "_blank"><button class="btn btn-outline-light" type="button">Send E-mail</button></a>
-            </div>
-          </div>
-        </div>
-
+    <main id="main">
+        <br>
+        <br>
+        <br>
+        <br>
         <br>
 
-        <div class="row mb-2">
-          <div class="col-md-6">
-            <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-            <img src="/assets/img/chairs/csw.jpg" alt="" class="img-fluid rounded mx-auto d-block img-thumbnail">
-              
+
+        <div class="csw-overlay">
+            <div class="container text-center">
+                <h1>Commission on the Status of Women</h1>
+                <br><br>
+                <p style="color:red; font-size: 25px">TOPIC A:</p>
+                <p style="font-size: 20px">Gender equality for women in STEM</p>
+                <p style="color:red; font-size: 25px">TOPIC B:</p>
+                <p style="font-size: 20px">Gender equality in caregiving and childcare</p>
             </div>
-          </div>
-          <div class="col-md-6">
-            <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-              <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
-                <br>
-                <br>
-                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 30px">Director</strong>
-                <h3 class="mb-0">Regina Alcantar</h3>
-              </div>
-              <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
-                <br>
-                <br>
-                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 30px">Moderator</strong>
-                <h3 class="mb-0">Selene Seade </h3>
-              </div>
-              
-            </div>
-          </div>
-          
-            
-          
         </div>
-      </section>
-    </div>
 
-  </main><!-- End #main -->
+        <div class="container py-4">
+            <section id="des">
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
+                <div class="pb-3 mb-4 border-bottom">
+                    <p style="font-size: 30px; text-align: center; background-color:#eff542; color: black; ">YELLOW
+                        DIVISION
+                        (7TH
+                        GRADE - 9TH GRADE)</p>
+                </div>
+
+                <div class="p-5 mb-4 bg-dark rounded-3">
+                    <div class="container-fluid py-5 bg-dark">
+                        <h1 class="display-5 fw-bold">Description</h1>
+                        <p style="text-align: justify;">The Commission on the Status of Women (CSW) is the principal
+                            global intergovernmental body exclusively dedicated to the promotion of gender equality and
+                            the empowerment of women. A functional commission of the Economic and Social Council
+                            (ECOSOC), it was established by ECOSOC resolution 11(II) of 21 June 1946.The CSW is
+                            instrumental in promoting women’s rights, documenting the reality of women’s lives
+                            throughout the world, and shaping global standards on gender equality and the empowerment of
+                            women.</p>
+                    </div>
+                </div>
+
+                <div class="row align-items-md-stretch">
+                    <div class="col-md-6">
+                        <div class="h-100 p-5 text-white bg-dark rounded-3">
+                            <h2>Background paper</h2>
+                            <br>
+                            <a href="/assets/background_papers/csw/a.pdf" target="_blank"><button
+                                    class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
+                            <a href="/assets/background_papers/csw/b.pdf" target="_blank"><button
+                                    class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="h-100 p-5 bg-dark border rounded-3">
+                            <h2>Contact committee</h2>
+                            <p>csw@cadmun.org</p>
+                            <a href="mailto:csw@cadmun.org" target="_blank"><button class="btn btn-outline-light"
+                                    type="button">Send E-mail</button></a>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row mb-2">
+                    <div class="col-md-6">
+                        <div
+                            class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                            <img src="/assets/img/chairs/csw.jpg" alt=""
+                                class="img-fluid rounded mx-auto d-block img-thumbnail">
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div
+                            class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                            <div class="col p-4 d-flex flex-column position-static" style="text-align: center">
+                                <br>
+                                <br>
+                                <strong class="d-inline-block mb-2 text-primary"
+                                    style="font-size: 30px">Director</strong>
+                                <h3 class="mb-0">Regina Alcantar</h3>
+                            </div>
+                            <div class="col p-4 d-flex flex-column position-static" style="text-align: center">
+                                <br>
+                                <br>
+                                <strong class="d-inline-block mb-2 text-primary"
+                                    style="font-size: 30px">Moderator</strong>
+                                <h3 class="mb-0">Selene Seade </h3>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </section>
+        </div>
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -282,20 +302,20 @@
         </div>
     </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
+    <div id="preloader"></div>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 
 </body>
 

@@ -4,79 +4,81 @@
 <head>
 
 
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CADMUN 2022 - PSD</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+    <title>CADMUN 2022 - PSD</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
 
 
-  <!-- Favicons -->
-  <link href="assets/img/CADMUN_transparent_logo.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Favicons -->
+    <link href="assets/img/CADMUN_transparent_logo.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-    rel="stylesheet">
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
+    <!-- =======================================================
   * Template Name: Restaurantly - v3.7.0
   * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 
-  <style>
-    .dropdown-menu {
-      width: 100%;
-    }
+    <style>
+        .dropdown-menu {
+            width: 100%;
+        }
 
-    .scrollable-menu {
-      height: auto;
-      max-height: 350px;
-      overflow-x: hidden;
-    }
-  </style>
+        .scrollable-menu {
+            height: auto;
+            max-height: 350px;
+            overflow-x: hidden;
+        }
 
-  <style>
-    .bd-placeholder-img {
-      font-size: 1.125rem;
-      text-anchor: middle;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      user-select: none;
-    }
+    </style>
 
-    @media (min-width: 768px) {
-      .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-      }
-    }
-  </style>
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+    </style>
 
 </head>
 
 <body>
 
-  <!-- ======= Top Bar ======= -->
-  
+    <!-- ======= Top Bar ======= -->
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-cente">
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top d-flex align-items-cente">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
 
             <h1 class="logo me-auto me-lg-0"><a href="/">CADMUN 2022</a></h1>
@@ -92,7 +94,8 @@
                     <li><a class="nav-link scrollto" href="/schedule">Schedule</a></li>
                     <li><a class="nav-link scrollto" href="/faq">FAQ</a></li>
                     <li><a class="nav-link scrollto" href="/#gallery">Gallery</a></li>
-                    <li class="dropdown"><a href="/#specials" class = "active"><span>Committees</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="/#specials" class="active"><span>Committees</span> <i
+                                class="bi bi-chevron-down"></i></a>
                         <ul class="dropdown-menu scrollable-menu">
                             <li><a href="/ga">GA</a></li>
                             <!--deep drop down-->
@@ -123,95 +126,111 @@
     </header>
     <!-- End Header -->
 
-  <main id="main">
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-
-    <div class="psd-overlay">
-      <div class="container text-center">
-        <h1>Peace and Security Department</h1>
-        <br><br>
-        <p style = "color:red; font-size: 25px" >TOPIC A:</p> <p style = "font-size: 20px">The Health and Security Threat of Biological Weapons</p>
-        <p style = "color:red; font-size: 25px" >TOPIC B:</p> <p style = "font-size: 20px"> The Humanitarian Impact of Urban Warfare
-</p>
-      </div>
-    </div>
-
-    <div class="container py-4">
-      <section id="des">
-
-        <div class="pb-3 mb-4 border-bottom">
-        <p style="font-size: 30px; text-align: center; background-color:#eff542; color: black; ">YELLOW DIVISION
-                    (7TH
-                    GRADE - 9TH GRADE)</p>
-        </div>
-
-        <div class="p-5 mb-4 bg-dark rounded-3">
-          <div class="container-fluid py-5 bg-dark">
-            <h1 class="display-5 fw-bold">Description</h1>
-            <p style="text-align: justify;">The Peacebuilding Commission (PBC) is an intergovernmental advisory body that supports peace efforts in conflict-affected countries and is a key addition to the capacity of the International Community in the broad peace agenda. The PBC is composed of 31 Member States, elected from the General Assembly, the Security Council, and the Economic and Social Council. The top financial contributing countries and the top troop-contributing countries to the United Nations system are also members.</p>
-          </div>
-        </div>
-
-        <div class="row align-items-md-stretch">
-          <div class="col-md-6">
-            <div class="h-100 p-5 text-white bg-dark rounded-3">
-              <h2>Background paper</h2>
-              <br>
-              <a href="/assets/background_papers/psd/a.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
-              <a href="/assets/background_papers/psd/b.pdf" target = "_blank"><button class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="h-100 p-5 bg-dark border rounded-3">
-              <h2>Contact committee</h2>
-              <p>security.council@cadmun.org</p>
-              <a href="https://mail.google.com" target = "_blank"><button class="btn btn-outline-light" type="button">Send E-mail</button></a>
-            </div>
-          </div>
-        </div>
-
+    <main id="main">
+        <br>
+        <br>
+        <br>
+        <br>
         <br>
 
-        <div class="row mb-2">
-          <div class="col-md-6">
-            <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-            <img src="/assets/img/chairs/psd.jpg" alt="" class="img-fluid rounded mx-auto d-block img-thumbnail">
-              
+
+        <div class="psd-overlay">
+            <div class="container text-center">
+                <h1>Peace and Security Department</h1>
+                <br><br>
+                <p style="color:red; font-size: 25px">TOPIC A:</p>
+                <p style="font-size: 20px">The Health and Security Threat of Biological Weapons</p>
+                <p style="color:red; font-size: 25px">TOPIC B:</p>
+                <p style="font-size: 20px"> The Humanitarian Impact of Urban Warfare
+                </p>
             </div>
-          </div>
-          <div class="col-md-6">
-            <div class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-              <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
-                <br>
-                <br>
-                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 30px">Director</strong>
-                <h3 class="mb-0">Victoria Nevarez</h3>
-              </div>
-              <div class="col p-4 d-flex flex-column position-static" style = "text-align: center">
-                <br>
-                <br>
-                <strong class="d-inline-block mb-2 text-primary" style = "font-size: 30px">Moderator</strong>
-                <h3 class="mb-0">Fernanda Galindo</h3>
-              </div>
-              
-            </div>
-          </div>
-          
-            
-          
         </div>
-      </section>
-    </div>
 
-  </main><!-- End #main -->
+        <div class="container py-4">
+            <section id="des">
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
+                <div class="pb-3 mb-4 border-bottom">
+                    <p style="font-size: 30px; text-align: center; background-color:#eff542; color: black; ">YELLOW
+                        DIVISION
+                        (7TH
+                        GRADE - 9TH GRADE)</p>
+                </div>
+
+                <div class="p-5 mb-4 bg-dark rounded-3">
+                    <div class="container-fluid py-5 bg-dark">
+                        <h1 class="display-5 fw-bold">Description</h1>
+                        <p style="text-align: justify;">The Peacebuilding Commission (PBC) is an intergovernmental
+                            advisory body that supports peace efforts in conflict-affected countries and is a key
+                            addition to the capacity of the International Community in the broad peace agenda. The PBC
+                            is composed of 31 Member States, elected from the General Assembly, the Security Council,
+                            and the Economic and Social Council. The top financial contributing countries and the top
+                            troop-contributing countries to the United Nations system are also members.</p>
+                    </div>
+                </div>
+
+                <div class="row align-items-md-stretch">
+                    <div class="col-md-6">
+                        <div class="h-100 p-5 text-white bg-dark rounded-3">
+                            <h2>Background paper</h2>
+                            <br>
+                            <a href="/assets/background_papers/psd/a.pdf" target="_blank"><button
+                                    class="btn btn-outline-light" type="button">View PDF for TOPIC A</button></a>
+                            <a href="/assets/background_papers/psd/b.pdf" target="_blank"><button
+                                    class="btn btn-outline-light" type="button">View PDF for TOPIC B</button></a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="h-100 p-5 bg-dark border rounded-3">
+                            <h2>Contact committee</h2>
+                            <p>security.council@cadmun.org</p>
+                            <a href="mailto:security.council@cadmun.org" target="_blank"><button
+                                    class="btn btn-outline-light" type="button">Send E-mail</button></a>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row mb-2">
+                    <div class="col-md-6">
+                        <div
+                            class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                            <img src="/assets/img/chairs/psd.jpg" alt=""
+                                class="img-fluid rounded mx-auto d-block img-thumbnail">
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div
+                            class="row g-0 rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                            <div class="col p-4 d-flex flex-column position-static" style="text-align: center">
+                                <br>
+                                <br>
+                                <strong class="d-inline-block mb-2 text-primary"
+                                    style="font-size: 30px">Director</strong>
+                                <h3 class="mb-0">Victoria Nevarez</h3>
+                            </div>
+                            <div class="col p-4 d-flex flex-column position-static" style="text-align: center">
+                                <br>
+                                <br>
+                                <strong class="d-inline-block mb-2 text-primary"
+                                    style="font-size: 30px">Moderator</strong>
+                                <h3 class="mb-0">Fernanda Galindo</h3>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </section>
+        </div>
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -283,20 +302,20 @@
         </div>
     </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
+    <div id="preloader"></div>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 
 </body>
 
