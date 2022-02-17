@@ -24,11 +24,11 @@ Route::get('/schedule', function () {
 });
 
 Route::get('/ga', function () {
-    return view('ga');
+    return view('committees.ga');
 });
 
 Route::get('/registration', function () {
-    return view('registration');
+    return view('committees.registration');
 });
 
 Route::get('/faq', function () {
@@ -36,55 +36,55 @@ Route::get('/faq', function () {
 });
 
 Route::get('/sc', function () {
-    return view('sc');
+    return view('committees.sc');
 });
 
 Route::get('/who', function () {
-    return view('who');
+    return view('committees.who');
 });
 
 Route::get('/cmd', function () {
-    return view('cmd');
+    return view('committees.cmd');
 });
 
 Route::get('/ccpcj', function () {
-    return view('ccpcj');
+    return view('committees.ccpcj');
 });
 
 Route::get('/hr', function () {
-    return view('hr');
+    return view('committees.hr');
 });
 
 Route::get('/au', function () {
-    return view('au');
+    return view('committees.au');
 });
 
 Route::get('/specpol', function () {
-    return view('specpol');
+    return view('committees.specpol');
 });
 
 Route::get('/csw', function () {
-    return view('csw');
+    return view('committees.csw');
 });
 
 Route::get('/sochum', function () {
-    return view('sochum');
+    return view('committees.sochum');
 });
 
 Route::get('/ad', function () {
-    return view('ad');
+    return view('committees.ad');
 });
 
 Route::get('/iom', function () {
-    return view('iom');
+    return view('committees.iom');
 });
 
 Route::get('/habitat', function () {
-    return view('habitat');
+    return view('committees.habitat');
 });
 
 Route::get('/psd', function () {
-    return view('psd');
+    return view('committees.psd');
 });
 
 
