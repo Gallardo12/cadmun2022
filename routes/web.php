@@ -28,7 +28,7 @@ Route::get('/ga', function () {
 });
 
 Route::get('/registration', function () {
-    return view('committees.registration');
+    return view('registration');
 });
 
 Route::get('/faq', function () {
