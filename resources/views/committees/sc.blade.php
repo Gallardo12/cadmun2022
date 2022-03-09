@@ -16,7 +16,7 @@
             <p style="color:red; font-size: 25px">TOPIC A:</p>
             <p style="font-size: 20px"> The Situation in the Middle East, including the Palestinian Question</p>
             <p style="color:red; font-size: 25px">TOPIC B:</p>
-            <p style="font-size: 20px"> TOPIC B: Measures to Strengthen International </p>
+            <p style="font-size: 20px"> Measures to Strengthen International </p>
         </div>
     </div>
 
@@ -86,7 +86,7 @@
                             <br>
                             <br>
                             <strong class="d-inline-block mb-2 text-primary" style="font-size: 30px">Moderator</strong>
-                            <h3 class="mb-0">Ernesto Campos</h3>
+                            <h3 class="mb-0">Leonardo Rodríguez</h3>
                         </div>
 
                     </div>

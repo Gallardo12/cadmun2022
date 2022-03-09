@@ -87,7 +87,7 @@
                             <br>
                             <br>
                             <strong class="d-inline-block mb-2 text-primary" style="font-size: 30px">Moderator</strong>
-                            <h3 class="mb-0">Carlos Talamas</h3>
+                            <h3 class="mb-0">Uriel Rodríguez</h3>
                         </div>
 
                     </div>

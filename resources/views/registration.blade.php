@@ -255,9 +255,9 @@
                         <h3>Quick Links</h3>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="/registration">Registration</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#menu">Secretariat</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/schedule">Schedule</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#events">Events</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/faq">FAQ</a></li>
                         </ul>
                     </div>

@@ -11,7 +11,7 @@
 
     <div class="specpol-overlay">
         <div class="container text-center">
-            <h1>Special Political and Decolonization Dommittee</h1>
+            <h1>Special Political and Decolonization Committee</h1>
             <br><br>
             <p style="color:red; font-size: 25px">TOPIC A:</p>
             <p style="font-size: 20px">The decolonization of Western Sahara </p>

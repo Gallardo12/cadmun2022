@@ -580,6 +580,31 @@
             <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
                 <div class="swiper-wrapper">
 
+                <div class="swiper-slide">
+                        <div class="row event-item">
+                            <div class="col-lg-6">
+                                <img src="assets/img/event-dinner.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="col-lg-6 pt-4 pt-lg-0 content">
+                                <h3>Dinner</h3>
+                                <div class="price">
+                                    <p><span>1st day</span></p>
+                                </div>
+                                <p class="fst-italic" style="font-size: larger;">
+                                    Our dinner party is a very classic event.
+                                    <br><br>
+                                    Dinner parties are not only a good way to build friendships, but also one of the
+                                    best ways to
+                                    maintain friendships.
+                                    <br><br>
+                                    During the dinner party, mini games will be provided to enable delegates to
+                                    enjoy a better
+                                    atmosphere.
+                                </p>
+                            </div>
+                        </div>
+                    </div><!-- End testimonial item -->
+
                     <div class="swiper-slide">
                         <div class="row event-item">
                             <div class="col-lg-6">
@@ -588,7 +613,7 @@
                             <div class="col-lg-6 pt-4 pt-lg-0 content">
                                 <h3>Delegate Party</h3>
                                 <div class="price">
-                                    <p><span>1st day</span></p>
+                                    <p><span>2nd day</span></p>
                                 </div>
                                 <p class="fst-italic" style="font-size: larger;">
                                     CADMUN is made up of various events. Dedegate debate is just one of them. In
@@ -625,31 +650,6 @@
                                     But CADMUN's gameshow is more unique. We have integrated knowledge related to
                                     CADMUN into mini
                                     games. Not only can you enjoy watching, but you can also learn from it.
-                                </p>
-                            </div>
-                        </div>
-                    </div><!-- End testimonial item -->
-
-                    <div class="swiper-slide">
-                        <div class="row event-item">
-                            <div class="col-lg-6">
-                                <img src="assets/img/event-dinner.jpg" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-6 pt-4 pt-lg-0 content">
-                                <h3>Dinner</h3>
-                                <div class="price">
-                                    <p><span>2nd day</span></p>
-                                </div>
-                                <p class="fst-italic" style="font-size: larger;">
-                                    Our dinner party is a very classic event.
-                                    <br><br>
-                                    Dinner parties are not only a good way to build friendships, but also one of the
-                                    best ways to
-                                    maintain friendships.
-                                    <br><br>
-                                    During the dinner party, mini games will be provided to enable delegates to
-                                    enjoy a better
-                                    atmosphere.
                                 </p>
                             </div>
                         </div>

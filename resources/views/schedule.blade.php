@@ -226,7 +226,7 @@
                     <!--end tr8-->
 
                     <tr>
-                        <td style="color: white; text-align: center;">Transportation to delegate party</td>
+                        <td style="color: white; text-align: center;">Transportation to formal dinner</td>
                         <td style="color: white; text-align: center;"> - </td>
                         <td style="color: white; text-align: center;">19:00 - 19:30
                         </td>
@@ -234,9 +234,9 @@
                     <!--end tr9-->
 
                     <tr style="background-color: rgb(66, 64, 63);">
-                        <td style="color: white; text-align: center;">Delegate Party
+                        <td style="color: white; text-align: center;">Formal dinner
                         </td>
-                        <td style="color: white; text-align: center;">Jardín de los Cardenales</td>
+                        <td style="color: white; text-align: center;">Hacienda La Ferrería</td>
                         <td style="color: white; text-align: center;">19:30 - 22:30
                         </td>
                     </tr>
@@ -263,7 +263,7 @@
 
                     <tr>
                         <td style="color: white; text-align: center;">Reception</td>
-                        <td style="color: white; text-align: center;">Teatro Victoria</td>
+                        <td style="color: white; text-align: center;">Teatro del IMSS</td>
                         <td style="color: white; text-align: center;">8:00 - 9:00</td>
                     </tr>
                     <!--end tr1-->
@@ -271,7 +271,7 @@
                     <tr style="background-color: rgb(66, 64, 63)">
                         <td style="color: white; text-align: center;">Conference
                         </td>
-                        <td style="color: white; text-align: center;">Teatro Victoria
+                        <td style="color: white; text-align: center;">Teatro del IMSS
                         </td>
                         <td style="color: white; text-align: center;">9:00 - 11:00
                         </td>
@@ -395,7 +395,7 @@
                     <!--end tr12-->
 
                     <tr>
-                        <td style="color: white; text-align: center;">Transportation to formal dinner
+                        <td style="color: white; text-align: center;">Transportation to delegate party
 
 
                         </td>
@@ -410,11 +410,11 @@
                     <!--end tr13-->
 
                     <tr style="background-color: rgb(66, 64, 63);">
-                        <td style="color: white; text-align: center;">Formal dinner
+                        <td style="color: white; text-align: center;">Delegate party
 
 
                         </td>
-                        <td style="color: white; text-align: center;">Ferrería
+                        <td style="color: white; text-align: center;">Jardín de los Cardenales
 
                         </td>
                         <td style="color: white; text-align: center;">19:00 - 21:00
@@ -595,9 +595,9 @@
                         <h3>Quick Links</h3>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="/registration">Registration</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#menu">Secretariat</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/schedule">Schedule</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#events">Events</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/faq">FAQ</a></li>
                         </ul>
                     </div>

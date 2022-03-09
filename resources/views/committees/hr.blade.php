@@ -88,7 +88,7 @@
                             <br>
                             <br>
                             <strong class="d-inline-block mb-2 text-primary" style="font-size: 30px">Moderator</strong>
-                            <h3 class="mb-0">Jose Alonso Castro </h3>
+                            <h3 class="mb-0">Ariel Majul</h3>
                         </div>
 
                     </div>

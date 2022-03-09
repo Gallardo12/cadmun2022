@@ -139,7 +139,9 @@
                     <input type="checkbox" checked>
                     <i></i>
                     <h2>What is the parliamentary procedure used in CADMUN?</h2>
-                    <p>Coming soon
+                    <p>Click <a style="color: yellow;" href="/assets/parliamentary_procedure.pdf" target="_blank"><u>here</u></a>.
+                        to read it!
+                        Feel free to take a look and we hope it turns out excellent.
                     </p>
                 </li>
                 <li>
@@ -218,9 +220,9 @@
                         <h3>Quick Links</h3>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="/registration">Registration</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#menu">Secretariat</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#menu">Secretariat</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/schedule">Schedule</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#events">Events</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#events">Events</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/faq">FAQ</a></li>
                         </ul>
                     </div>
