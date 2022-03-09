@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-8">
                 <h1>Welcome to <span>CADMUN 2022</span></h1>
-                <h2>To be more creative</h2>
+                <h2>Be the change</h2>
 
                 <div class="btns">
                     <a href="#about" class="btn-menu animated fadeInUp scrollto">Starts here</a>
