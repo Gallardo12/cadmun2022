@@ -82,7 +82,7 @@
                         <div class="col p-4 d-flex flex-column position-static" style="text-align: center">
 
                             <strong class="d-inline-block mb-2 text-primary" style="font-size: 30px">Moderator</strong>
-                            <h3 class="mb-0">Barbie Antunez</h3>
+                            <h3 class="mb-0">Barbara Antunez</h3>
                         </div>
 
                     </div>

@@ -82,7 +82,7 @@
                             <br>
                             <br>
                             <strong class="d-inline-block mb-2 text-primary" style="font-size: 30px">Director</strong>
-                            <h3 class="mb-0">Estephie Santiesteban</h3>
+                            <h3 class="mb-0">Estefania Santiesteban</h3>
                         </div>
                         <div class="col p-4 d-flex flex-column position-static" style="text-align: center">
                             <br>

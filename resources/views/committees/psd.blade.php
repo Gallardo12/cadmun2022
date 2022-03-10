@@ -57,7 +57,7 @@
                 <div class="col-md-6">
                     <div class="h-100 p-5 bg-dark border rounded-3">
                         <h2>Contact committee</h2>
-                        <p>security.council@cadmun.org</p>
+                        <p>psd@cadmun.org</p>
                         <a href="mailto:security.council@cadmun.org" target="_blank"><button
                                 class="btn btn-outline-light" type="button">Send E-mail</button></a>
                     </div>
